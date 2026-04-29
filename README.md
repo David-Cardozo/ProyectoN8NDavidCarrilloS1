@@ -77,5 +77,5 @@ Para asegurar la integridad de la información, el bot valida:
 
 ---
 <p align="center">
-  <img src="../ProyectoN8NDavidCarrilloS1/imgs/image.png" alt="HelpDeskBot Banner" width="600">
+  <img src="imgs/image.png" alt="HelpDeskBot Banner" width="600">
 </p>
