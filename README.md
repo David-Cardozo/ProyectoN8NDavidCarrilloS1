@@ -71,7 +71,7 @@ Para asegurar la integridad de la información, el bot valida:
 
 ## 📦 Instalación (Requisitos)
 1. Clonar el flujo de n8n (archivo JSON adjunto).
-2. Abrir el bot [`HelpDeskBot`](t.me/HelpDeskDavidCarrilloBot) via Telegram.
+2. Abrir el bot [`HelpDeskBot`](https://t.me/HelpDeskDavidCarrilloBot) via Telegram.
 3. Configurar las credenciales de **Google Sheets** y conectar el ID del documento [`HelpDeskBot_DB`](https://docs.google.com/spreadsheets/d/1vPo0tJ-AFy07dxCocsDVrf3CZVeV1jDbN2gi52OASAA/edit?gid=0#gid=0).
 4. Configurar el Webhook en n8n para recibir mensajes de Telegram.
 
